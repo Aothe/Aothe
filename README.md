@@ -16,10 +16,9 @@ Some of my favourite tech:
 </p>
 
 
-I'm currently diving into web3 and trying to absorb as much info as possible.
+Currently absorbing any/all info relating to web3 and React.
 
 
-
-Feel free to reach out to me on my [LinkedIn](https://www.linkedin.com/in/liam--morris/)
+Feel free to reach out to me on my --> [LinkedIn](https://www.linkedin.com/in/liam--morris/)
 
 [![Liam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aothe&count_private=true&show_icons=true&theme=nord)](https://github.com/Aothe/github-readme-stats)
