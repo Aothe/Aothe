@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="Liam_Morris.png" /> 
+  <img src="Liam Morris.gif" /> 
 <h2> Hey there, I tend to go by Liam </h2> 
 </p>
 
