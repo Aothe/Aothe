@@ -1,4 +1,7 @@
 ### Hey
+<p align="center">
+  <img src="Liam_Morris.png" /> 
+</p>
 
 I'm a Full Stack Developer from Dublin, currently based in Europe. Experienced
 
