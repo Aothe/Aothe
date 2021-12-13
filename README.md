@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="Liam Morris.mp4" /> 
+  <img src="Liam Morris.gif" /> 
 <h2> Hey there, I tend to go by Liam </h2> 
 </p>
 
@@ -19,4 +19,7 @@ Some of my favourite tech:
 I'm currently diving into web3 and trying to absorb as much info as possible.
 
 
+
 Feel free to reach out to me on my [LinkedIn](https://www.linkedin.com/in/liam--morris/)
+
+[![Liam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aothe&count_private=true&show_icons=true&theme=nord)](https://github.com/Aothe/github-readme-stats)
