@@ -1,4 +1,4 @@
-### Hey
+### Hey there, I tend to go by Liam 
 <p align="center">
   <img src="Liam_Morris.png" /> 
 </p>
