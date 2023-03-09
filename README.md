@@ -4,7 +4,7 @@
 <h2> Hey there, I tend to go by Liam </h2> 
 </p>
 
-I'm a Full Stack Developer from Dublin, currently based in Europe. I love everything to do with React and Javascript, yet am excited to get my hands on any programming language I can find.
+I'm a Full Stack Developer from Ireland, currently based in Europe. I love everything to do with React and Javascript, yet am excited to get my hands on any programming language I can find.
 
 Some of my favourite tech:
 
